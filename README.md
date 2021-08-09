@@ -4,8 +4,7 @@ Tweaks to a Proxmox installation
 
 ## Links
 
-Configuration of each PVE node
-
+Configuration of each PVE node</br>
 https://github.com/DOSSANTOSDaniel/Proxmox_TP
 
 This is a collection of stuff that I wrote for Proxmox.
